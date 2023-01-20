@@ -1,6 +1,5 @@
 {
-  "userData": {
-    "сourses": [
+  "сourses": [
       {
         "lan": "uk",
         "text": "Українська розкладка"
@@ -14,7 +13,7 @@
         "text": "Układ polski"
       }
     ],
-    "lessons": [
+  "lessons": [
       {
         "value": 1,
         "text": "Home Row Position"
@@ -42,7 +41,6 @@
         "text": "ава"
       }
     ],
-    "coins": 0
-  },
+  "coins": 78,
   "text": "jkkjk kjkkj jkjjk"
 }
