@@ -3,5 +3,33 @@
     { "lan": "uk", "title": "Українська розкладка" },
     { "lan": "en", "title": "English layout" },
     { "lan": "pl", "title": "Układ polski" }
-  ]
+  ],
+  "lessons": [
+      {
+        "value": 1,
+        "text": "Home Row Position"
+      },
+      {
+        "value": 2,
+        "text": "Index Fingers"
+      },
+      {
+        "value": 3,
+        "text": "Middle and Ring Fingers"
+      }
+    ],
+    "exercises": [
+      {
+        "value": 1,
+        "text": "оллол"
+      },
+      {
+        "value": 2,
+        "text": "ваава"
+      },
+      {
+        "value": 3,
+        "text": "ава"
+      }
+    ]
 }
