@@ -1,14 +1,48 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "userData": {
+    "сourses": [
+      {
+        "lan": "uk",
+        "text": "Українська розкладка"
+      },
+      {
+        "lan": "en",
+        "text": "English layout"
+      },
+      {
+        "lan": "pl",
+        "text": "Układ polski"
+      }
+    ],
+    "lessons": [
+      {
+        "value": 1,
+        "text": "Home Row Position"
+      },
+      {
+        "value": 2,
+        "text": "Index Fingers"
+      },
+      {
+        "value": 3,
+        "text": "Middle and Ring Fingers"
+      }
+    ],
+    "exercises": [
+      {
+        "value": 1,
+        "text": "оллол"
+      },
+      {
+        "value": 2,
+        "text": "ваава"
+      },
+      {
+        "value": 3,
+        "text": "ава"
+      }
+    ],
+    "coins": 0
+  },
+  "text": "jkkjk kjkkj jkjjk"
 }
