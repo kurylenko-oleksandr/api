@@ -1,10 +1,20 @@
 {
-  "сourses": [
-    { "lan": "uk", "title": "Українська розкладка" },
-    { "lan": "en", "title": "English layout" },
-    { "lan": "pl", "title": "Układ polski" }
-  ],
-  "lessons": [
+  "userData": {
+    "сourses": [
+      {
+        "lan": "uk",
+        "text": "Українська розкладка"
+      },
+      {
+        "lan": "en",
+        "text": "English layout"
+      },
+      {
+        "lan": "pl",
+        "text": "Układ polski"
+      }
+    ],
+    "lessons": [
       {
         "value": 1,
         "text": "Home Row Position"
@@ -32,5 +42,7 @@
         "text": "ава"
       }
     ],
-  "coins": 78
+    "coins": 79,
+    "text": "jkkjk kjkkj jkjjk"
+  }
 }
