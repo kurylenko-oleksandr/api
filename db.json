@@ -2,15 +2,15 @@
   "userData": {
     "сourses": [
       {
-        "lan": "uk",
+        "value": "uk",
         "text": "Українська розкладка"
       },
       {
-        "lan": "en",
+        "value": "en",
         "text": "English layout"
       },
       {
-        "lan": "pl",
+        "value": "pl",
         "text": "Układ polski"
       }
     ],
